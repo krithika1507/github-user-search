@@ -1,0 +1,76 @@
+
+body{
+	background: url("image.png");
+}
+
+input[type=text]  {
+	width: 60vw;
+  box-sizing: border-box;
+  border: 2px solid #ccc;
+  border-radius: 8px;
+  font-size: 16px;
+  padding: 12px 20px 12px 40px;
+  margin-left: 50px;
+}
+
+.searchButton {
+  padding: 10px 25px;
+  font-size: 15px;
+  text-align: center;
+  cursor: pointer;
+  outline: none;
+  border: none;
+  height: 7vh;
+  border-radius: 8px;
+}
+
+.display-user-details {
+ box-shadow: 5px 10px #819FF7;
+ border: 1px solid grey;
+  max-width: 500px;
+  margin: auto;
+  text-align: center;
+  font-family: arial;
+  height: 60vh;
+
+}
+.user-image {
+	width:100px;
+}
+
+.basic-user-details {
+	 color: grey;
+  font-size: 20px;
+}
+
+.userName {
+ 	text-align: center;
+ 	
+ }
+.userName,a{
+	font-size: 20pt;
+ 	color: white;
+}
+h1 {
+	text-align: center;
+	font-size: 40pt;
+	color: #819FF7;
+}
+
+h2 {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #65737e;
+}
+h2,span {
+	color: #819FF7;
+}
+
+h4 {
+	width: 100%;
+	text-align: center;
+	border-bottom: 1px solid #65737e;
+}
+h4,span {
+	color: #819FF7;
+}
